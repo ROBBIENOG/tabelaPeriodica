@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+}
+
+table{
+    width: 100%;
+    font-family: arial, sans-serif;
+}
+
+th{
+    background-color:white;
+    border: 1px solid #dddddd;
+}
+
+
+.empty{
+    border:none; 
+}
